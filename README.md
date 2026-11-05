@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou o João 👋
 
-<!--
-**joaovithor11/joaovithor11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante e entusiasta da área de tecnologia.
 
-Here are some ideas to get you started:
+💻 Atualmente estou aprendendo programação e desenvolvendo minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou estudando
+- JavaScript
+- HTML
+- CSS
+
+### 📚 Sobre mim
+- Estudando lógica de programação e desenvolvimento web.
+- Buscando aprender novas tecnologias.
+- Desenvolvendo projetos para colocar meus conhecimentos em prática.
+
+### 🎯 Objetivo
+Construir minha carreira na área de tecnologia, evoluindo como desenvolvedor e criando projetos cada vez melhores.
