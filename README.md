@@ -1,10 +1,12 @@
-# Olá, eu sou João Vithor 👋
+# 👋 Olá! Meu nome é João Vithor
 
-Sou estudante de Engenharia de Software. Meus primeiros projetos unem lógica de programação em C e desenvolvimento de interfaces com HTML, CSS e Bootstrap. Gosto de transformar os exercícios da faculdade em projetos que outras pessoas possam abrir, executar e entender.
+🎓 Estudante de Engenharia de Software
 
-Meu objetivo é aprofundar minha base em programação, melhorar a organização do código e desenvolver interfaces cada vez mais acessíveis.
+Sou estudante de Engenharia de Software e estou desenvolvendo meus conhecimentos na área de programação. Atualmente, tenho me dedicado ao estudo de lógica de programação, linguagem C e desenvolvimento web.
 
-## Tecnologias que estou praticando
+Busco aprimorar minhas habilidades por meio de estudos e projetos práticos, aplicando os conhecimentos adquiridos e evoluindo continuamente na área.
+
+## 💻 Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
@@ -15,27 +17,22 @@ Meu objetivo é aprofundar minha base em programação, melhorar a organização
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-Estou praticando vetores, matrizes, laços, condições, estruturação de páginas e integração de componentes do Bootstrap. Também estou começando a organizar meus projetos com Git e GitHub.
+Atualmente, estou estudando estruturas de repetição, condições, vetores e matrizes em C. Também estou aprendendo a desenvolver páginas web utilizando HTML, CSS e Bootstrap, além de conhecer ferramentas para versionamento de código.
 
-## Projetos acadêmicos · 2026/2
+## 🚀 Projetos acadêmicos · 2026/2
 
-| Projeto | O que desenvolvi | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| Nightfall | Site temático de Halloween com carrossel, galeria, modais e curiosidades | HTML e Bootstrap |
-| Vetores e Matrizes | Contagem de números pares e ímpares e exibição de uma matriz transposta | C |
+| Nightfall | Desenvolvimento de um site com temática de Halloween, utilizando recursos visuais e componentes interativos. | HTML e Bootstrap |
+| Vetores e Matrizes | Exercícios de programação envolvendo contagem de números pares e ímpares e matriz transposta. | C |
 
-## Aprendizado e referências
+## 📚 Estudos e evolução
 
-Atualmente estou desenvolvendo meus conhecimentos em lógica de programação, desenvolvimento web e fundamentos da Engenharia de Software.
+Minha jornada na Engenharia de Software está apenas começando. Tenho buscado aprimorar minha lógica, aprender novas tecnologias e aplicar os conhecimentos adquiridos na faculdade em projetos práticos.
 
-Também busco conhecer projetos de outros desenvolvedores para aprender boas práticas de organização, documentação e apresentação profissional no GitHub.
+Quero continuar evoluindo, desenvolver projetos cada vez mais completos e construir minha experiência na área de tecnologia.
 
-## Contato
+## 📫 Contato
 
-- GitHub: [joaovithor11](https://github.com/joaovithor11)
-- E-mail: *adicione seu e-mail profissional*
-- LinkedIn: *adicione seu perfil, quando tiver*
-
----
-
-⭐ Sempre aprendendo, praticando e evoluindo na programação!
+- **GitHub:** [joaovithor11](https://github.com/joaovithor11)
+- **E
