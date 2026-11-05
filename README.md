@@ -24,7 +24,6 @@ Atualmente, estou estudando estruturas de repetição, condições, vetores e ma
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | Nightfall | Desenvolvimento de um site com temática de Halloween, utilizando recursos visuais e componentes interativos. | HTML e Bootstrap |
-| Vetores e Matrizes | Exercícios de programação envolvendo contagem de números pares e ímpares e matriz transposta. | C |
 
 ## 📚 Estudos e evolução
 
