@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Software e estou desenvolvendo meus conhecimentos
 
 Busco aprimorar minhas habilidades por meio de estudos e projetos práticos, aplicando os conhecimentos adquiridos e evoluindo continuamente na área.
 
-## 💻 Tecnologias e ferramentas
+## 📖 Conhecimentos em desenvolvimento
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
@@ -25,7 +25,7 @@ Atualmente, estou estudando estruturas de repetição, condições, vetores e ma
 |---|---|---|
 | Nightfall | Desenvolvimento de um site com temática de Halloween, utilizando recursos visuais e componentes interativos. | HTML e Bootstrap |
 
-## 📚 Estudos e evolução
+🎯 Objetivos profissionais
 
 Minha jornada na Engenharia de Software está apenas começando. Tenho buscado aprimorar minha lógica, aprender novas tecnologias e aplicar os conhecimentos adquiridos na faculdade em projetos práticos.
 
@@ -34,4 +34,3 @@ Quero continuar evoluindo, desenvolver projetos cada vez mais completos e constr
 ## 📫 Contato
 
 - **GitHub:** [joaovithor11](https://github.com/joaovithor11)
-- **E
